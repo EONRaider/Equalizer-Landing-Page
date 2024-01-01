@@ -211,6 +211,10 @@ footer {
     background-color: var(--clr-yellow-400);
 }
 
+.company-socials__icon:hover path {
+    fill: var(--clr-orange-400);
+}
+
 @media only screen and (width > 1180px) {
     .content {
         width: 1440px;
