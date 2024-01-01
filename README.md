@@ -19,9 +19,11 @@ building realistic equalizer-landing-pages.
 
 ### Screenshot
 
+![Equalizer-Landing-Page](https://github.com/EONRaider/Equalizer-Landing-Page/assets/15611424/ff8121c5-e047-428c-b5ed-49f3e7a46141)
+
 ### Links
 
-- [My Solution on Frontend Mentor]()
+- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-html5css3-equalizer-landing-page-Ma4DZfQ-2l)
 - [Check the Live Site](https://eonraider-equalizer-landing-page.netlify.app/)
 
 ## My process
